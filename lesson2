@@ -1,0 +1,9 @@
+def my_sum(a,b):
+    return a+b
+print(my_sum(a:5,b:6))
+
+def get_chetnoe(chislo):
+    if chislo // 2 = 0:
+        print ('Чётное')
+    else:
+        print ('нечётное')
